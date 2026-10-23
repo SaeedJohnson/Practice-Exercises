@@ -1,0 +1,3 @@
+/*
+I believe the Sakila database is used for learning and exmaples for other databases
+*/
